@@ -7,3 +7,5 @@ data's `indices` persist to `./storage` by default.
 #### Run Using Old Index: `python3 main.py`
 
 #### Create New Index and Run: `python3 main.py --new`
+
+#### Uses: [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html)
